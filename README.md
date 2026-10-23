@@ -2,7 +2,7 @@
 
 ![AI Project Coach: improve how you work with AI using decisions, evidence and one concrete next practice.](assets/hero.svg)
 
-[MIT](LICENSE) · [Download](https://github.com/Vadale/ai-project-coach/releases) · [See an example](examples/worked-coaching.md)
+[MIT](LICENSE) · [Download](https://github.com/Vadale/ai-project-coach-skill/releases) · [See an example](examples/worked-coaching.md)
 
 **Understand what you do well when building with AI—and what to practise next.**
 A prompt-only agent skill that turns selected project conversations and receipts
@@ -33,7 +33,7 @@ supports them**. Unobserved behavior remains unknown; it is not a personal defic
 In Codex, ask the built-in installer:
 
 ```text
-$skill-installer install https://github.com/Vadale/ai-project-coach/tree/main/skills/ai-project-coach
+$skill-installer install https://github.com/Vadale/ai-project-coach-skill/tree/main/skills/ai-project-coach
 ```
 
 Or copy the complete [skills/ai-project-coach](skills/ai-project-coach) folder to
@@ -106,12 +106,12 @@ do not attach personal reports or private conversations to public issues.
 
 ## Contribute and reuse
 
-[Open an issue](https://github.com/Vadale/ai-project-coach/issues) with a small,
+[Open an issue](https://github.com/Vadale/ai-project-coach-skill/issues) with a small,
 fictional reproduction of a problem. [Contribution guidance](CONTRIBUTING.md).
 Skill prose was written for this product from its owner's requirements; no private
 transcripts, proprietary benchmark data or third-party software are bundled.
 [MIT license](LICENSE).
 
-Related: [Sec-graph triage](https://github.com/Vadale/sec-graph-triage) for security
-finding evidence; [R Statistical Analysis](https://github.com/Vadale/r-statistical-analysis)
+Related: [Sec-graph triage](https://github.com/Vadale/sec-graph-triage-skill) for security
+finding evidence; [R Statistical Analysis](https://github.com/Vadale/r-statistical-analysis-skill)
 for statistical work. Neither is required by the coach.
