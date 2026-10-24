@@ -13,6 +13,18 @@ For people who plan, build or manage projects with LLMs: independent makers,
 researchers, developers and product leads. You can start from a past project;
 you do not need to read every line of code or supply your entire chat history.
 
+## Try a natural request
+
+Once this skill is installed and visible to your assistant, try:
+
+> From these selected project messages, help me see where I accepted AI output too quickly and choose one practice for my next change. Keep the feedback private.
+
+Private, attributed feedback and one observable practice goal, supported only by the selected evidence.
+
+See the [synthetic input/output example](examples/natural-request.md) for expected
+behavior and nearby tasks that need another workflow. Automatic selection
+depends on your host and model; explicit invocation remains available.
+
 ## What changes in your next task?
 
 | Your question | What the coach provides |

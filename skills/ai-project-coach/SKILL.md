@@ -1,6 +1,6 @@
 ---
 name: ai-project-coach
-description: Give personal coaching on how someone plans, builds and manages projects with LLMs, using selected conversations, decisions and project evidence. Reconstruct contributions, identify supported strengths and practice targets, follow up on prior goals, and draft an optional evidence-backed CV or portfolio summary. For personal development, not HR ranking or psychological assessment.
+description: "Help a person improve how they plan, question, verify and steer projects with AI, using selected conversations and project decisions. Use for feedback on collaboration habits, practice goals or evidence-backed portfolio claims. Not for implementing a project, writing a generic CV, HR ranking or psychological assessment."
 ---
 
 # AI Project Coach

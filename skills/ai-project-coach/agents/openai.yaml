@@ -1,4 +1,4 @@
 interface:
   display_name: "AI Project Coach"
-  short_description: "Improve how you lead projects with LLMs"
+  short_description: "Improve your decisions when building projects with AI"
   default_prompt: "Use $ai-project-coach to review selected project conversations and suggest one evidence-backed practice to improve."
